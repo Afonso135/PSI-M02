@@ -8,15 +8,13 @@ escolha=0
 operação=input("insira a operação a realizar")
 while escolha=="soma":
  
-for i1 in range()
+for i1 in range():
 #operações
-if operação.lower() in soma:
-elif operação.lower() in multiplicação:
-elif opreação.lower() in divisão:
-elif operação.lower() in subtração:
-for i in range(i1,i2)
-else:
-  print(None)
+ if operação.lower() in soma:
+ elif operação.lower() in multiplicação:
+   elif opreação.lower() in divisão:
+ elif operação.lower() in subtração:
+  for i2 in range(i1,i2):
+    else:
   #defenir a variável com nada
-  
- 
+  print(None)
