@@ -1,0 +1,11 @@
+x = int(input("Indique o primeiro valor a somar:"))
+y = int(input("Indique o limite dos valores a somar:"))
+
+if x > y:
+    print("Os valores não são válidos. O x deve ser inferior ao y.")
+else:
+    soma = 0
+    for i in range(x,y):
+        soma = soma + i
+
+    print(soma)
