@@ -12,3 +12,4 @@ for mês in range(mês_atual,13):
     dia=0
     soma=soma+dias_restantes
     print("faltam",dias_restantes,"dias pra o fim do ano")
+   
