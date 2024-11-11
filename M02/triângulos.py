@@ -11,5 +11,5 @@ if (a+b)<c and (b+c)<a and (a+c)<b:
   print("triângulo equilátero")
   print("triângulo")
 else:
-   print("triângulo")
+   print("triângulo escaleno")
    
